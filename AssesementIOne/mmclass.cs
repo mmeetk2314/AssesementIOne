@@ -67,9 +67,10 @@ namespace AssesementIOne
             return Bullet;
         }
         public void WeaponLoad()
-        {
+        {       
             Bullet = 0;
             MessageBox.Show("reload");
         }
     }
 }
+ 

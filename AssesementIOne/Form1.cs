@@ -17,7 +17,7 @@ namespace AssesementIOne
     public partial class MainForm : Form
     {
         mmclass mmclass = new mmclass();
-        private object mygameplay;
+        
 
         public MainForm()
         {
